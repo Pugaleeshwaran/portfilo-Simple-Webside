@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.container{
+    padding: 50px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.section-one__contract{
+    background-color: orangered;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+.section-one__name{
+    font-size: 60px;
+}
+.section-one__role{
+    font-size: 30px;
+    margin-top: 5px;
+}
+.section-two,.section-three,.section-four,.section-five,.section-six{
+    margin-top: 20px;
+    
+}
+.section-two__title,.section-three__title,.section-four__title,.section-five__title{
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.section-two__aboutme{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.section-two__disc{
+    font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.section-six{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.section-six__copyright{
+    margin-top: 10px;
+}
+.section-six__title a{
+    margin-bottom: 5px;
+    color: skyblue;
+    font-size: 15px;
+}
+.section-four li,.section-three li {
+    list-style: none;
+}
+.section-three{
+    background-color:#6462fd;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    text-align: center;
+    vertical-align: top;
+    border-radius: 10px;
+}
+.section-three__ul li,.section-five__ul li,.section-four__ol li{
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.section-four{
+    background-color:orange;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    text-align: center;
+    vertical-align: top;
+    border-radius: 10px;
+}
+.section-five{
+    background-color: cadetblue;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    text-align: center;
+    vertical-align: top;
+    border-radius: 10px;
+}
+.section-five li{
+    list-style: none;
+}
+.con-container{
+    padding: 50px;
+}
+.con-selector-one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.con-selector-one__home{
+    background-color: orangered;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+.con-selector-one__disc{
+    font-size: 30px;
+    margin-top: 5px;
+}
+.con-selector-one__title{
+    font-size: 60px;
+}
+.con-selector-four{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.con-selector-four__soci a{
+    color: skyblue;
+    
+}
+.con-selector-two{
+    margin-top: 20px;
+}
+.con-selector-two__input,.con-selector-two__textarea,.con-selector-two__submit{
+    margin-top: 20px;
+}
+.con-selector-two__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.con-selector-two__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+.con-selector-two__submit{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: orangered;
+    color: white;
+    border: none;
+}
